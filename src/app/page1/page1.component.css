@@ -1,0 +1,23 @@
+.img {
+    background: url(../../assets/img/slider_image_home@1x.png) ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.mx-auto {
+    padding-top: 30px;
+}
+li {
+    margin-left: 20px;
+}
+#hey {
+    padding-top: 250px;
+}
+.btn-outline-light {
+    width: 180px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
